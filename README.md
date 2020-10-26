@@ -9,28 +9,6 @@ https://github.com/kuon/WhyILeftGithub/blob/main/README.md
 
 ----
 
-
-# THIS REPOSITORY HAS MOVED
-
-New URL: https://git.goyman.com/kuon/radius-auth-virtual
-
-Why I moved everything out of GitHub:
-
-https://github.com/kuon/WhyILeftGithub/blob/main/README.md
-
-----
-
-
-# THIS REPOSITORY HAS MOVED
-
-New URL: https://git.goyman.com/kuon/radius-auth-virtual
-
-Why I moved everything out of GitHub:
-
-https://github.com/kuon/WhyILeftGithub/blob/main/README.md
-
-----
-
 # Auth Radius Virtual
 
 This project provides a Linux PAM module for Radius authentication coupled with
